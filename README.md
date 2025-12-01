@@ -126,6 +126,8 @@
     - Làm bài tập OOP 2.16 trên Notion (tt).
 - Buổi 31 (26/11): Lớp lồng nhau.
     - Bài 2.17: Lớp lồng nhau.
+- Buổi 32 (01/12): Cú pháp Lambda và Method Reference.
+    - Bài 2.18: Cú pháp Lambda và Method Reference.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
