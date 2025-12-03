@@ -128,6 +128,10 @@
     - Bài 2.17: Lớp lồng nhau.
 - Buổi 32 (01/12): Cú pháp Lambda và Method Reference.
     - Bài 2.18: Cú pháp Lambda và Method Reference.
+- Buổi 33 (03/12): Tổng quan về Collection Framework trong Java, nghiên cứu về List.
+    - Bài 2.19: Tổng quan về Collection Framework trong Java.
+    - Bài 2.20: Cách dùng các cấu trúc thuộc giao diện List.
+    - [Tài liệu tham khảo DSA](https://drive.google.com/file/d/1lNDc05hAEXrQbnGd7AEZbMv9Ob3_GZ3y/view?usp=sharing)
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
