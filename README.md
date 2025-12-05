@@ -135,7 +135,7 @@
 - Buổi 34 (05/12): Nghiên cứu về Queue, Set và Map.
     - Bài 2.21: Cách dùng các cấu trúc thuộc giao diện Queue.
     - Bài 2.22: Cách dùng các cấu trúc thuộc giao diện Set.
-    - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện Map
+    - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện Map.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
