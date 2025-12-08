@@ -36,12 +36,12 @@ public class MockData {
 
     public List<Student> students() {
         List<Student> list = new ArrayList<>();
-        for (long i = 1; i <= 50; i++) {
-            String name = NAMES[(int)(i-1)];
-            int age = 18 + this.rand.nextInt(8);; // Mỗi Sinh Viên 18-25 tuổi
+        for (long i = 1; i <= NAMES.length; i++) {
+            String name = NAMES[(int)(i - 1)];
+            int age = 18 + this.rand.nextInt(8); // Mỗi Sinh Viên 18-25 tuổi
             Gender gender = this.rand.nextInt(2) == 0 ? Gender.MALE : Gender.FEMALE;
             String className = CLASSES[this.rand.nextInt(CLASSES.length)];
-            list.add(new Student(i,name,age,gender,className));
+            list.add(new Student(i, name, age, gender, className));
         }
         return list;
     }
@@ -49,9 +49,9 @@ public class MockData {
     public List<Course> courses() {
         List<Course> list = new ArrayList<>();
         for (long i = 1; i <= COURSES.length; i++) {
-            String name = COURSES[(int)(i-1)];
+            String name = COURSES[(int)(i - 1)];
             int credit = 2 + this.rand.nextInt(3); // Mỗi Khoá Học 2-4 tín chỉ
-            list.add(new Course(i,name,credit));
+            list.add(new Course(i, name, credit));
         }
         return list;
     }
@@ -69,7 +69,7 @@ public class MockData {
             for (int idx : chosen) {
                 Course c = courses.get(idx);
                 double score = 4.0 + this.rand.nextDouble() * 6.0; // Mỗi Khoá Học mà Sinh Viên tham gia 4.0-10.0 điểm
-                list.add(new Enrollment(enrollmentId++, s.getId(), c.getId(), Math.round(score*10)/10.0));
+                list.add(new Enrollment(enrollmentId++, s.getId(), c.getId(), Math.round(score * 10) / 10.0));
             }
         }
         return list;
