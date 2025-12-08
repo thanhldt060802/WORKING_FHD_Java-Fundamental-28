@@ -1,0 +1,6 @@
+Choosen task: A6
+CSE1
+CSE2
+CSE5
+CSE3
+CSE4
