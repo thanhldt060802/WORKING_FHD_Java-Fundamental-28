@@ -137,7 +137,7 @@
     - Bài 2.22: Cách dùng các cấu trúc thuộc giao diện Set.
     - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện Map.
 - Buổi 35 (08/12): Ôn tập kiến thức Collection Framework.
-    - Nghiên cứu và triển khai source summary/stream-training-mini-project-draft.
+    - Nghiên cứu triển khai source summary/stream-training-mini-project-draft bằng phương pháp thủ công.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
