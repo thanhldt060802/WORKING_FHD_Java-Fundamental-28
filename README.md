@@ -136,8 +136,11 @@
     - Bài 2.21: Cách dùng các cấu trúc thuộc giao diện Queue.
     - Bài 2.22: Cách dùng các cấu trúc thuộc giao diện Set.
     - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện Map.
-- Buổi 35 (08/12): Ôn tập kiến thức Collection Framework.
-    - Nghiên cứu triển khai source summary/stream-training-mini-project-draft bằng phương pháp thủ công.
+- Buổi 35 (08/12): Ôn tập kiến thức Collection.
+    - Làm bài tập 19 trên Notion, sử dụng phương pháp thủ công.
+- Buổi 36 (10/12): Stream.
+    - Bài 2.24: Tổng quan về Stream API.
+    - Bài 2.25: Các giao diện hỗ trợ tính năng đặc trưng của Stream.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
@@ -147,3 +150,8 @@
 
 - Bài tập trên web ([LINK](https://fullhousedev.com/contest/java28)).
 - Bài tập mở rộng ([LINK](https://www.notion.so/Exercise-171e3c27ef37812a9754fb9190421d82?pvs=21)).
+
+
+# 6. Tham khảo mở rộng
+
+- Cấu trúc dữ liệu và giải thuật ([LINK](https://local-tip-3d2.notion.site/Data-Strutures-And-Algorithms-2c5e3c27ef3780ba91a6fce38797ecd9?pvs=73)).
