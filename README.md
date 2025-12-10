@@ -131,7 +131,6 @@
 - Buổi 33 (03/12): Tổng quan về Collection Framework trong Java, nghiên cứu về List.
     - Bài 2.19: Tổng quan về Collection Framework trong Java.
     - Bài 2.20: Cách dùng các cấu trúc thuộc giao diện List.
-    - [Tài liệu tham khảo DSA](https://drive.google.com/file/d/1lNDc05hAEXrQbnGd7AEZbMv9Ob3_GZ3y/view?usp=sharing)
 - Buổi 34 (05/12): Nghiên cứu về Queue, Set và Map.
     - Bài 2.21: Cách dùng các cấu trúc thuộc giao diện Queue.
     - Bài 2.22: Cách dùng các cấu trúc thuộc giao diện Set.
