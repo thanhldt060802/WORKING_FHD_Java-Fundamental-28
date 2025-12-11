@@ -147,8 +147,8 @@
 
 # 5. Bài tập
 
-- Bài tập trên web ([LINK](https://fullhousedev.com/contest/java28)).
-- Bài tập mở rộng ([LINK](https://www.notion.so/Exercise-171e3c27ef37812a9754fb9190421d82?pvs=21)).
+- Bài tập trên web FHD ([LINK](https://fullhousedev.com/contest/java28)).
+- Bài tập trên web Notion ([LINK](https://www.notion.so/Exercise-171e3c27ef37812a9754fb9190421d82?pvs=21)).
 
 
 # 6. Tham khảo mở rộng
