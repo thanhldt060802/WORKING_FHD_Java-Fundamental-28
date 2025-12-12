@@ -136,7 +136,7 @@
     - Bài 2.22: Cách dùng các cấu trúc thuộc giao diện Set.
     - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện Map.
 - Buổi 35 (08/12): Ôn tập kiến thức Collection.
-    - Làm bài tập 19 trên Notion, sử dụng phương pháp thủ công.
+    - Làm bài tập 19 trên Notion (ôn tập xử lí dữ liệu thủ công).
 - Buổi 36 (10/12): Stream.
     - Bài 2.24: Tổng quan về Stream API.
     - Bài 2.25: Các giao diện hỗ trợ tính năng đặc trưng của Stream.
