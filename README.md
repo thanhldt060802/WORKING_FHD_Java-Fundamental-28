@@ -139,7 +139,7 @@
     - Làm bài tập 19 trên Notion (ôn tập xử lí dữ liệu thủ công).
 - Buổi 36 (10/12): Stream.
     - Bài 2.24: Tổng quan về Stream API.
-    - Bài 2.25: Các giao diện hỗ trợ tính năng đặc trưng của Stream.
+    - Bài 2.25: Các giao diện hỗ trợ tính năng đặc trưng của Strseam.
 - Buổi 37 (12/12): Stream (tt).
     - Bài 2.26: Các tính năng đặc trưng của Stream.
 - Buổi 38 (15/12): Stream (tt).
