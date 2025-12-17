@@ -177,17 +177,17 @@ public class Main {
         //     .noneMatch((student) -> student.getAge() > 25);
         // System.out.println(result);
 
-        List<Student> list = new ArrayList<Student>();
-        list.add(new Student(1, "A", 23));
-        list.add(new Student(2, "D", 24));
-        list.add(new Student(3, "B", 21));
-        list.add(new Student(4, "E", 22));
-        list.add(new Student(5, "D", 24));
-        list.add(new Student(6, "A", 24));
-        list.add(new Student(7, "B", 23));
-        list.add(new Student(8, "E", 22));
-        list.add(new Student(9, "D", 21));
-        list.add(new Student(10, "E", 22));
+        // List<Student> list = new ArrayList<Student>();
+        // list.add(new Student(1, "A", 23));
+        // list.add(new Student(2, "D", 24));
+        // list.add(new Student(3, "B", 21));
+        // list.add(new Student(4, "E", 22));
+        // list.add(new Student(5, "D", 24));
+        // list.add(new Student(6, "A", 24));
+        // list.add(new Student(7, "B", 23));
+        // list.add(new Student(8, "E", 22));
+        // list.add(new Student(9, "D", 21));
+        // list.add(new Student(10, "E", 22));
 
         // Student student = list.stream()
         //     .min((stu1, stu2) -> stu1.getAge() - stu2.getAge())
@@ -209,6 +209,18 @@ public class Main {
         //     .average()
         //     .getAsDouble();
         // System.out.println(result);
+
+        List<Student> list = new ArrayList<Student>();
+        list.add(new Student(1, "A", 23));
+        list.add(new Student(2, "D", 24));
+        list.add(new Student(3, "B", 21));
+        list.add(new Student(4, "E", 22));
+        list.add(new Student(5, "D", 24));
+        list.add(new Student(6, "A", 24));
+        list.add(new Student(7, "B", 23));
+        list.add(new Student(8, "E", 22));
+        list.add(new Student(9, "D", 21));
+        list.add(new Student(10, "E", 22));
 
         IntSummaryStatistics summary = list.stream()
             .mapToInt((student) -> student.getAge())
