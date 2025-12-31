@@ -152,11 +152,13 @@
     - Bài tập 18 (Web Notion): Xử lý dữ liệu dùng Collection và Stream (tt).
 - Buổi 42 (26/12): Ôn tập (tt).
     - Bài tập 18 (Web Notion): Xử lý dữ liệu dùng Collection và Stream (tt).
-- Buổi 43 (29/12): Làm quèn với MySQL.
-    - Bài 3.1: Kiểu dữ liệu trong MySQL và các cú pháp cơ bản.
-    - Bài 3.2: Các thao tác cơ bản với dữ liệu trong bảng.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
+- Buổi 43 (29/12): Làm quen với MySQL.
+    - Bài 3.1: Kiểu dữ liệu trong MySQL và các cú pháp cơ bản.
+    - Bài 3.2: Các thao tác cơ bản với dữ liệu trong bảng.
+- Buổi 44 (31/12): Làm quen với MySQL (tt).
+    - Bài 3.2: Các thao tác cơ bản với dữ liệu trong bảng (tt).
 
 ## 4.4. Tương tác với hệ cơ sở dữ liệu bằng Java ([LINK](https://local-tip-3d2.notion.site/4-Java-MySQL-171e3c27ef37817495d6f57896aa34e7?pvs=74))
 
