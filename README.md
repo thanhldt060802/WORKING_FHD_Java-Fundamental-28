@@ -159,7 +159,7 @@
     - Bài 3.2: Các thao tác cơ bản với dữ liệu trong bảng.
 - Buổi 44 (31/12): Làm quen với MySQL (tt).
     - Bài 3.2: Các thao tác cơ bản với dữ liệu trong bảng (tt).
-- Buổi 44 (05/01): Các chức năng xử lý dữ liệu đặc trưng trong MySQL.
+- Buổi 45 (05/01): Các chức năng xử lý dữ liệu đặc trưng trong MySQL.
     - Bài 3.3: Các chức năng xử lý dữ liệu đặc trưng trong MySQL.
 
 ## 4.4. Tương tác với hệ cơ sở dữ liệu bằng Java ([LINK](https://local-tip-3d2.notion.site/4-Java-MySQL-171e3c27ef37817495d6f57896aa34e7?pvs=74))
