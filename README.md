@@ -176,3 +176,5 @@
 # 6. Tham khảo mở rộng
 
 - Cấu trúc dữ liệu và giải thuật ([LINK](https://local-tip-3d2.notion.site/Data-Strutures-And-Algorithms-2c5e3c27ef3780ba91a6fce38797ecd9?pvs=73)).
+- Lập trình ứng dụng Desktop - Swing ([LINK](https://local-tip-3d2.notion.site/Java-Desktop-App-Swing-2c4e3c27ef37801aa865c29759a4ee20?pvs=74))
+- Lập trình ứng dụng Web - Servlet ([LINK](https://local-tip-3d2.notion.site/Java-Web-App-Servlet-2c4e3c27ef3780889449cbc60a37dba1?pvs=74))
