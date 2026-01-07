@@ -163,6 +163,9 @@
     - Bài 3.3: Các chức năng xử lý dữ liệu đặc trưng trong MySQL.
 
 ## 4.4. Tương tác với hệ cơ sở dữ liệu bằng Java ([LINK](https://local-tip-3d2.notion.site/4-Java-MySQL-171e3c27ef37817495d6f57896aa34e7?pvs=74))
+- Buổi 46 (07/01): Thực hiện kết nối đến hệ cơ sở dữ liệu MySQL dùng JDBC, Thực hiện CRUD cơ bản (p1).
+    - Bài 4.1: Thực hiện kết nối đến hệ cơ sở dữ liệu MySQL dùng JDBC.
+    - Bài 4.2: Thực hiện CRUD cơ bản (p1).
 
 # 5. Bài tập
 
