@@ -166,6 +166,8 @@
 - Buổi 46 (07/01): Thực hiện kết nối đến hệ cơ sở dữ liệu MySQL dùng JDBC, Thực hiện CRUD cơ bản (p1).
     - Bài 4.1: Thực hiện kết nối đến hệ cơ sở dữ liệu MySQL dùng JDBC.
     - Bài 4.2: Thực hiện CRUD cơ bản (p1).
+- Buổi 47 (12/01): Thực hiện CRUD cơ bản (p2).
+    - Bài 4.2: Thực hiện CRUD cơ bản (p2).
 
 # 5. Bài tập
 
