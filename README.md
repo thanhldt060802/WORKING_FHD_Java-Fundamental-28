@@ -169,7 +169,7 @@
 - Buổi 47 (12/01): Thực hiện CRUD cơ bản (p2).
     - Bài 4.2: Thực hiện CRUD cơ bản (p2).
 - Buổi 48 (14/01): Dùng JDBC với Singleton và DAO.
-    - Bài 4.4: Dùng JDBC với Singleton và DAO.
+    - Bài 4.3: Dùng JDBC với Singleton và DAO.
 
 # 5. Bài tập
 
